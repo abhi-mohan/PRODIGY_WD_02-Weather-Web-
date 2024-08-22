@@ -1,4 +1,4 @@
-# 🌦️ Advanced Weather Web Application
+# 🌦️ Weather Web Application
 
 ## Overview
 
@@ -78,4 +78,4 @@ If you have any questions, suggestions, or feedback, feel free to reach out via 
 
 ---
 
-Thank you for exploring the Advanced Weather Web Application! We hope it helps you stay informed about the weather, no matter where you are.
+Thank you for exploring the Weather Web Application! We hope it helps you stay informed about the weather, no matter where you are.
